@@ -1,0 +1,13 @@
+O que e um repositorio ? 
+
+
+
+- E onde o codigo sera armazenado
+
+- Na maioria das vezes cada projeto tem um repositorio proprio
+
+- Quando criamos um repositorio estamos iniciando um projeto
+
+- O repositorio pode ir para servidores que sao especializados em 
+gerenciar repos, como GitHub e Bitbucket
+

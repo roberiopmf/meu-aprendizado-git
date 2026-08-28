@@ -1,0 +1,12 @@
+O que e controle de versao ? 
+
+- Uma tecnica que ajuda a gerenciar o codigo-fonte de uma aplicacao,
+registrando todas as modificacoes de codigo, podendo tambem reverter
+as mesmas.
+
+- Criar versoes de um software em diferentes estagios, podendo alterar
+facilmente entre elas
+
+- Cada membro da equipe pode trabalhar em uma versao diferentes
+
+- Ha ferramentas para trabalhar o controle de versao como: git e SVN

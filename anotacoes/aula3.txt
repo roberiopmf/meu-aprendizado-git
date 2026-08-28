@@ -1,0 +1,10 @@
+O que e GitHub ? 
+
+- E um servico para gerenciar repositorios, gratuito e amplamente
+utilizado.
+
+- Podemos enviar nossos projetos para o GitHub e disponibiliza-lo
+para outros devs
+
+- O GitHub e gratuito tanto para projetos publicos como privados
+
