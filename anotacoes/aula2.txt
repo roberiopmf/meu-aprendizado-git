@@ -11,3 +11,7 @@ O que e um repositorio ?
 - O repositorio pode ir para servidores que sao especializados em 
 gerenciar repos, como GitHub e Bitbucket
 
+
+- Utilizamos o comando git init para iniciar um novo repositorio local.
+
+

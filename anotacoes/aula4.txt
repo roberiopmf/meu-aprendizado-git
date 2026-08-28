@@ -1,0 +1,14 @@
+Enviando repositorios para o GitHub
+
+- Podemos facilmente enviar nossos repos para o GitHub
+
+- Precisamos criar o projeto no Github, inicializar o mesmo no git
+em nossa maquina, sincronizar com o GH e enviar.
+
+- E esta sequencia que parece ser complexa e facilmente executada
+por poucos comandos
+
+- Vale lembrar que so fazemos uma vez por projeto este fluxo
+
+- Porem alguns dos comandos utilizados vao ser uteis ao longo do curso
+

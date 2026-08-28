@@ -1,0 +1,21 @@
+Salvando alteracoes no projeto
+
+
+- As alteracoes salvas do projeto sao realizadas por : git commit
+
+
+- Podemos commitar arquivos especificos ou varios de uma vez com a
+flag -a
+
+- E uma boa pratica enviar uma mensagem a cada commit, com as alteracoes
+que foram feitas.
+
+- A mensagem pode ser adicionada com a flag -m
+
+
+
+- Para enviar apenas 1 arquivo, utiliza-se o comando :
+    git commit nome_do_arquivo -m "Mensagem desejada"
+
+- Para enviar tudo, utiliza-se :
+    git commit -m "Mensagem desejada"

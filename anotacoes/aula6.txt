@@ -1,0 +1,15 @@
+Adicionando arquivos ao projeto
+
+- Para adicionar arquivos novos a um projeto utilizamos
+o comando: git add
+
+- Podemos adicionar um arquivo especifico como tambem diversos
+de uma vez so, digitando git add nome_do_arquivo ou git add . para adicionar
+tudo modificado.
+
+
+- Somente adicionando arquivos eles serao monitorados pelo git, ou seja
+, se nao adicionar ele nao estara no controle de versao. 
+
+- E interessante utilizar este comando de tempos em tempos para nao
+perder algo por descuido.

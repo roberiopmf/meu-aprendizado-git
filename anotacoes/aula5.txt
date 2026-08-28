@@ -1,0 +1,12 @@
+Verificando mudancas no projeto
+
+
+- As mudancas do projeto podem ser verificadas por: git status
+
+- Este comando e utilizado muito frequentemente
+
+- Aqui serao mapeadas todas as alteracoes do projeto, como :
+    Arquivos nao monitorados e arquivos modificados
+
+- Podemos tambem dizer que e a diferenca do que ja esta enviado ao 
+servidor ou salvo no projeto
