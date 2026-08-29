@@ -1,0 +1,9 @@
+Historico de alteracoes 
+
+
+- Podemos acessar um log de modificacoes feitas no projeto
+
+- O comando para este recurso e o "git log"
+
+- Voce recebera uma informacao dos commits realizados no projeto 
+ate entao.

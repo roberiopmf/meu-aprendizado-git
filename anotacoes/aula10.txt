@@ -1,0 +1,11 @@
+Clonando repositorios 
+
+- O ato de baixar um repositorio de um servidor remoto e chamado
+de clonar repositorio
+
+
+- Para esta acao utilizamos "git clone", passando a referencia do
+repositorio remoto.
+
+- Este comando e utilizado quando entramos em um novo projeto, por 
+exemplo.

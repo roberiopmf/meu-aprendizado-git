@@ -1,0 +1,11 @@
+Removendo arquivos do repo
+
+
+- Os arquivos podem ser deletados da monitoracao do git
+
+- O comando para deletar e "git rm"
+
+- Apos deletar um arquivo do git ele nao tera mais suas atualizacoes
+consideradas pelo git
+
+- Apenas quando for adicionando novamente pelo git add 

@@ -1,0 +1,23 @@
+git init   -  inicia um repositorio no diretorio atual.
+
+git status - informa o que foi modificado, o que ainda esta untracked.
+
+git clone (link_repo) - Traz para o diretorio atual um repo remoto do github.
+
+git add  - Comando utilizado para adicionar modificacoes ao staging(arquivos que irao para o commit).
+           E possivel adicionar arquivos por vez, digitando o nome, ou adicionar todas as modificacoes
+           com "git add ."
+
+git commit  - Utilizado para enviar um commit ao repo remoto, com todas as modificacoes ou modificacoes
+              especificas. Utiliza-se -m apos o comando para enviar uma mensagem, geralmente utilizada como 
+              titulo do commit, o que e uma boa pratica. Para enviar apenas um arquivo, so precisamos digitar
+              o nome dele apos o comando git commit.
+
+git push  - Utilizado para enviar todas as modificacoes de um commit ao repo remoto.
+
+git pull  - Utiliza-se para sincronizar o repo remoto com o repo local. Utilizado em projetos onde
+            varios desenvolvedores atuam e modificam o mesmo repo.
+
+git rm  - Remove um arquivo do repositorio. 
+
+git log  - Informa todas os commits realizados no repositorio.
