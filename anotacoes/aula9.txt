@@ -1,0 +1,10 @@
+Recebendo as mudancas 
+
+
+- E comum tambem ter que sincronizar o local com as mudancas
+do remoto
+
+- Esta acao e feita pelo git pull
+
+- Apos o comando serao buscadas atualizacoes, se encontradas elas 
+serao unidas ao codigo atual existente na nossa maquina.
