@@ -1,0 +1,8 @@
+Desfazendo todas as alteracoes 
+
+- Com o comando "git reset" podemos resetar as mudancas feitas
+
+- Geralmente e utilizado com a flag --hard
+
+- Todas as alteracoes commitadas e tambem as pendentes serao excluidas.
+

@@ -12,7 +12,6 @@ This repository documents my progress while learning Git and GitHub.
 ## Structure
 
 - `anotacoes/` — notes and concepts from my studies
-- `praticas/` — files and experiments used to practice Git commands
 - `compendio/` — useful and basic commands with a simple description of each one of them.
-  
+
 This repository will evolve as I continue learning and experimenting with Git and GitHub.
