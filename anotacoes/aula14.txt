@@ -1,0 +1,13 @@
+Desfazendo alteracoes 
+
+
+- O arquivo modificado pode ser retornado ao estado original
+
+- O comando utilizado e o "git checkout"
+
+- Apos a utilizacao do mesmo o arquivo sai do staging
+
+- Caso seja feita uma proxima alteracao, ele entra em staging novamente
+
+- Utilizado em casos onde um arquivo foi modificado erroneamente e voce quer
+restaura-lo ao estado anterior.
