@@ -1,0 +1,15 @@
+Renomeando arquivos
+
+- Com o comando "git mv" podemos renomear um arquivo.
+
+- O mesmo tambem pode ser movido para outra pasta.
+
+- E isso fara com que este novo arquivo seja monitorado pelo git
+
+- O arquivo anterior e excluido.
+
+- Modo de utilizacao :
+
+    git mv (nome_arquivo) (nova_pasta/nome_arquivo)
+
+    

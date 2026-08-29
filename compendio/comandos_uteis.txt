@@ -21,3 +21,5 @@ git pull  - Utiliza-se para sincronizar o repo remoto com o repo local. Utilizad
 git rm  - Remove um arquivo do repositorio. 
 
 git log  - Informa todas os commits realizados no repositorio. Apertar q para sair do log apos finalizada a analise.
+
+git mv - Renomeia ou move um arquivo para outro diretorio e exclui da sua origem. 
